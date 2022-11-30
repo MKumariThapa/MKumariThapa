@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MKumariThapa
 - 👀 I’m interested in Web Development...
 - 🌱 I’m currently learning React.js ...
-- ![](https://komarev.com/ghpvc/?username=MKumariThapa&color=dc143c)
+- ![](https://komarev.com/ghpvc/?username=MKumariThapa&color=blue&style=flat-square)
 
 
 
