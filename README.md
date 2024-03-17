@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MKumari ... ... ... </h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkumarithapa&label=Profile%20views&color=0e75b6&style=flat" alt="mkumarithapa" /> </p>
 
-- 🌱 ! (I’m currently learning **React.js**)
+- 🌱 ! (I’m currently learning **Cypress**)
 
 - 👨‍💻 All of my projects are available at [Portfoilo ](https://www.yamkumari03.com.np/)
 
