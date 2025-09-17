@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkumarithapa&label=Profile%20views&color=0e75b6&style=flat" alt="mkumarithapa" /> </p>
 
-- 🌱 ! (I’m currently learning **Cypress**)
 
 - 👨‍💻 All of my projects are available at [Portfoilo ](https://www.yamkumari03.com.np/)
 
